@@ -10,3 +10,7 @@ http://www.fs.usda.gov/detail/okawen/passes-permits/recreation/?cid=fsbdev3_0536
 # Links - Trails
 This is the WTA description of the 18 mile Enchantment Lakes trail 
 http://www.wta.org/go-hiking/hikes/enchantment-lakes
+
+# Links - Why does this exist
+Here is the Yelp page for the Enchantments. Because yeah, there is a Yelp page for the Enchantments.
+http://www.yelp.com/biz/the-enchantments-leavenworth
